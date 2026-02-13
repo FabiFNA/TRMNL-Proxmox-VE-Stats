@@ -4,6 +4,9 @@ This plugin allows you to display Proxmox VE resource statistics (CPU, RAM, Disk
 
 It is designed to work with TRMNL’s polling mechanism and a custom Blade view.
 
+<img width="800" height="480" alt="example" src="https://github.com/user-attachments/assets/d281598c-cea7-4a0c-b207-9ef6851029ad" />
+
+
 ---
 
 ## Overview
